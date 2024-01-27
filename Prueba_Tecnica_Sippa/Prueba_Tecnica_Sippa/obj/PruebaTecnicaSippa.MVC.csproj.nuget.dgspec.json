@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\PruebaTecnicaSippa.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\PruebaTecnicaSippa.Data.csproj",
+        "projectName": "PruebaTecnicaSippa.Data",
+        "projectPath": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\PruebaTecnicaSippa.Data.csproj",
+        "packagesPath": "C:\\Users\\deose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.MVC.csproj",
+        "projectName": "PruebaTecnicaSippa.MVC",
+        "projectPath": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.MVC.csproj",
+        "packagesPath": "C:\\Users\\deose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\Prueba_Tecnica_Sippa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\PruebaTecnicaSippa.Data.csproj": {
+                "projectPath": "C:\\Users\\deose\\OneDrive\\Escritorio\\Prueba Tecnica\\Prueba_Tecnica_Sippa\\PruebaTecnicaSippa.Data\\PruebaTecnicaSippa.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Logic.deps.json
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Logic.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Logic.pdb
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Services.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Services.pdb
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.csproj.AssemblyReference.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.AssemblyInfoInputs.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.AssemblyInfo.cs
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.csproj.CoreCompileInputs.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.csproj.CopyComplete
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\refint\PruebaTecnicaSippa.Logic.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Logic.pdb
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\ref\PruebaTecnicaSippa.Logic.dll

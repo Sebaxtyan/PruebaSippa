@@ -1,0 +1,12 @@
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Data.deps.json
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Data.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\bin\Debug\net8.0\PruebaTecnicaSippa.Data.pdb
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.csproj.AssemblyReference.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.AssemblyInfoInputs.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.AssemblyInfo.cs
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.csproj.CoreCompileInputs.cache
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\refint\PruebaTecnicaSippa.Data.dll
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\PruebaTecnicaSippa.Data.pdb
+C:\Users\deose\OneDrive\Escritorio\Prueba Tecnica\Prueba_Tecnica_Sippa\PruebaTecnicaSippa.Data\obj\Debug\net8.0\ref\PruebaTecnicaSippa.Data.dll

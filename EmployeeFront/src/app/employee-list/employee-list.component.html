@@ -1,0 +1,44 @@
+<div>
+  <h2>Buscar Empleado</h2>
+  <div class="search-container">
+    <input type="text" placeholder="Buscar empleado por ID..." class="search-input" [(ngModel)]="empleadoId">
+    <button class="search-button" (click)="buscarEmpleado()">Buscar</button>
+  </div>
+</div>
+
+<h2>Lista de Empleados</h2>
+<div class="table-container">
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>
+  <div *ngIf="employees.length > 0; else noDataMessage">
+    <table>
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Employee Name</th>
+          <th>Employee Salary</th>
+          <th>Employee Age</th>
+          <th>Profile Image</th>
+          <th>Employee Annual Salary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let employee of employees | paginate: { itemsPerPage: itemsPerPage, currentPage: currentPage, totalItems: totalItems }">
+          <td>{{employee.id}}</td>
+          <td>{{employee.employee_name}}</td>
+          <td>{{employee.employee_salary}}</td>
+          <td>{{employee.employee_age}}</td>
+          <td>{{employee.profile_image}}</td>
+          <td>{{employee.employeeAnualSalary}}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Agrega la paginación -->
+    <pagination-controls (pageChange)="currentPage = $event"></pagination-controls>
+  </div>
+  <ng-template #noDataMessage>
+    <p>No se encontraron empleados.</p>
+  </ng-template>
+</div>
